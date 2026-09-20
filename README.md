@@ -9,7 +9,7 @@ Repositorio central con el índice de mis proyectos académicos y personales en 
 
 * 🛒 [**Sistema de Ventas e Inventario**](https://github.com/hectortorres2193-code/Trabajo_Final_Sistema_de_Inventario): Punto de venta desarrollado en C con persistencia de datos en archivos planos, gestión de inventario y generación de facturas.
 * 📚 [**Estructuras de Datos y Algoritmos en C**](https://github.com/hectortorres2193-code/Repositorio-de-Hector): Colección de prácticas de laboratorio que incluyen algoritmos de ordenamiento (*Quicksort*, *Insertion Sort*) y estructuras lineales (*Pilas*, *Colas*).
-* ☕ [**Programacion-Orientada-a-Objetos**](https://github.com/hectortorres2193-code/Programacion-Orientada-a-Objetos): Ejercicios, prácticas y proyectos aplicando conceptos de POO (Herencia, Polimorfismo, Encapsulamiento) en Java/C++.
+* ☕ [**Programacion-Orientada-a-Objetos**](https://github.com/hectortorres2193-code/Programacion-Orientada-a-Objetos): Ejercicios, prácticas y proyectos aplicando conceptos de POO (Herencia, Polimorfismo, Encapsulamiento) en Java.
 
 ---
 
